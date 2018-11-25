@@ -1,0 +1,25 @@
+html, body{
+  margin-top: 0;
+  padding-top: 0;
+  height:100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+  background-color: #ddd;
+}
+.navbar{
+  padding: .2rem;
+
+}
+.navbar-nav li{
+  padding-right: 20px;
+}
+.nav-link{
+  font-size: 1.1em !important;
+}
+
+.container{
+
+  padding: 12px;
+
+}
